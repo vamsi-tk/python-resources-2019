@@ -321,3 +321,11 @@ community.
 open data packages.
 
 * [_ImageFu_](https://www.imagefu.com/) A good tool to create button images.
+
+### My additions
+
+* https://coffeebreakpython.com/ A good tool to improve Python by spending 5 min every day
+
+* https://wiki.python.org/moin/UsefulModules A good source for python modules
+
+* https://docs.python.org/3/library/intro.html Ofcourse the Python docs are the best place to start looking.
